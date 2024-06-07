@@ -1,2 +1,2 @@
 # csharp-spellbook
-A collection(spellbook) with various libriries, tools, design patterns, prototypes, architectures, arounf C# language and Dotnet.
+A collection(spellbook) with various libraries, tools, design patterns, prototypes, architectures, around C# language and Dotnet.
